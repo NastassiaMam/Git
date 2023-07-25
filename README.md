@@ -1,4 +1,7 @@
 # GIT assignment
+### [Json] (https://github.com/NastassiaMam/JSON#json)
+### [XML] (https://github.com/NastassiaMam/XML/blob/main/README.md#xml)
+### [Git branches] () 
 ### Git branches
 ### 1. On the local repository, make branches for:
 - Postman
