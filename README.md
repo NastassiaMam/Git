@@ -42,7 +42,7 @@
 ### 6. Push main to the external repository.
 > git push -u origin main
 ### 7. In the CheckLists branch, outline the checklist structure.
->> git checkout CheckLists
+> git checkout CheckLists
 >
 > touch CheckLists_structure.txt
 >
