@@ -1,8 +1,7 @@
 # GIT assignment
 ### [Json](https://github.com/NastassiaMam/JSON#json)
 ### [XML](https://github.com/NastassiaMam/XML/blob/main/README.md#xml)
-### [Git branches](https://github.com/NastassiaMam/Git/blob/main/README.md#git-branches) 
-### Git branches
+### [Git branches](https://github.com/NastassiaMam/Git#1-on-the-local-repository-make-branches-for)
 ### 1. On the local repository, make branches for:
 - Postman
 - Jmeter
