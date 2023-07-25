@@ -1,0 +1,10 @@
+Bug report structure:
+
+1. Title
+2. Id
+3. Severity/Priority
+4. Environment
+5. STR
+6. AR
+7. ER
+8. Attachment
